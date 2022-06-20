@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(33,21,43);  
+    margin: 15;
+    font-family: 'open sans';
+    font-size: 16px;
+    color: rgb(202, 202, 202);
+}
+
+.header{
+    background-color: rgb(78,51,102);
+    border-radius: 5%;
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 1);
+}
+.my_photo{
+    width: 200;
+    height: 300;
+    margin: 10;
+    border-radius: 10%;
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 1);
+}
+.my_name{
+    margin-top: 0;
+}
+.info{
+    margin-left: 20;
+    margin-top: 70;
+}
+.about_me{
+    display: flex;
+}
+
+.hobby{
+    background-color: rgb(56,36,73);
+    border-radius: 5%;
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 1);
+}
+.hobby_info{
+    padding: 0 20 10 20;    
+}
+
+.my_jobs{
+    background-color: rgb(56,36,73);
+    border-radius: 5%;
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 1);
+    padding: 0 20 10 20;
+}
+.my_jobs_info{
+    padding: 0 20 10 20;
+}
+
+.education{
+    background-color: rgb(56,36,73);
+    border-radius: 5%;
+    box-shadow: 7px 7px 20px rgba(0, 0, 0, 1);
+    padding: 0 20 10 20;
+}
+.education_info{
+    padding: 0 20 10 20;
+}
+
+.contact{
+    text-align: center;
+}
+.contact_info{
+    text-align: center;
+    vertical-align: baseline;
+    font-size: 0.8em;
+}
+.contacts{
+    margin: 0 50;
+    font-style: italic;
+}
+    .contacts:first-child{
+    text-decoration: none;
+    color: rgb(202, 202, 202);
+    }
+        .contacts:first-child:hover{
+        color: orange;
+        }    
+        .contacts:nth-child(2):hover{
+        color: orange;
+        }
+        .contacts:last-child:hover{
+        color: orange;
+        }
