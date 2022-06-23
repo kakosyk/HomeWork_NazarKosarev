@@ -8,14 +8,14 @@ body{
 
 .header{
     background-color: rgb(78,51,102);
-    border-radius: 5%;
+    border-radius: 15px;
     box-shadow: 7px 7px 20px rgba(0, 0, 0, 1);
 }
 .my_photo{
     width: 200;
     height: 300;
     margin: 10;
-    border-radius: 10%;
+    border-radius: 15px;
     box-shadow: 7px 7px 20px rgba(0, 0, 0, 1);
 }
 .my_name{
@@ -31,7 +31,7 @@ body{
 
 .hobby{
     background-color: rgb(56,36,73);
-    border-radius: 5%;
+    border-radius: 15px;
     box-shadow: 7px 7px 20px rgba(0, 0, 0, 1);
 }
 .hobby_info{
@@ -40,7 +40,7 @@ body{
 
 .my_jobs{
     background-color: rgb(56,36,73);
-    border-radius: 5%;
+    border-radius: 15px;
     box-shadow: 7px 7px 20px rgba(0, 0, 0, 1);
     padding: 0 20 10 20;
 }
@@ -50,7 +50,7 @@ body{
 
 .education{
     background-color: rgb(56,36,73);
-    border-radius: 5%;
+    border-radius: 15px;
     box-shadow: 7px 7px 20px rgba(0, 0, 0, 1);
     padding: 0 20 10 20;
 }
