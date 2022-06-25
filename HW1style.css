@@ -23,10 +23,10 @@ body{
 }
 .info{
     margin-left: 20;
-    margin-top: 70;
 }
 .about_me{
     display: flex;
+    align-items: center;
 }
 
 .hobby{
